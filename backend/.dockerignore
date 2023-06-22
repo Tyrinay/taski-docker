@@ -3,4 +3,8 @@ venv
 db.sqlite3 
 .idea
 .vscode
+<<<<<<< HEAD
 .env
+=======
+.env
+>>>>>>> 1b1f7f4cc61df1de6d38ca08134e1031f917af57
